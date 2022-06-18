@@ -59,11 +59,9 @@ cropped_img=input_img[20:150,60:230]
 ### Step 8:
 Display all the Transformed images.
 
-## Program:
-```python
-Developed By: P.Sanjay
-Register Number: 212220230042
-```
+# Program:
+## Developed By: P.Sanjay
+## Register Number: 212220230042
 ### i)Image Translation
 ```
 M=np.float32([[1,0,20],
